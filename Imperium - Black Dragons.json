@@ -1399,7 +1399,7 @@
         ]
       },
       {
-        "name": "Chapter Master Volos",
+        "name": "Volos The Black Dragon",
         "id": "72dc-5f35-4bd3-1c5e",
         "hidden": false,
         "import": true,
@@ -1500,7 +1500,7 @@
         ],
         "profiles": [
           {
-            "name": "Chapter Master Volos",
+            "name": "Volos The Black Dragon",
             "id": "b6d5-8eab-aaf9-66c5",
             "hidden": false,
             "typeId": "c547-1836-d8a-ff4f",
@@ -1595,7 +1595,7 @@
             ]
           },
           {
-            "name": "The Wyrm-Cleaver",
+            "name": "The Wyrm's Talons",
             "id": "5018-728c-9b69-3daa",
             "hidden": false,
             "import": true,
